@@ -11,4 +11,4 @@ How do i activate it?:
 Launch gorilla tag (Airlink or connected with a wire),
 and on your left controller press y.
 
-And GG you know have Karr's Mod Menu!
+And GG you know have Bingus's Mod Menu!
